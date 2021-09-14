@@ -15,9 +15,9 @@ Learn Python 3 - The Hard Way - Exercises
 | 27 - 31  | [[2021-09-18 - Saturday]] |  [[2021-09-14 - Tuesday]]  | introduce Boolean logic and if-statements.                                                                                                                                                          |
 | 32 - 36  | [[2021-09-18 - Saturday]] |                            | dissect various types of loops.                                                                                                                                                                     |
 |    37    | [[2021-09-18 - Saturday]] |                            | is a symbol review, providing a neat little cheat sheet for Python keywords, data types, string escape sequences, and operators.                                                                    |
-| 38 - 39  | [[2021-09-18 - Saturday]] |                            | cover lists and dictionaries.                                                                                                                                                                       |
-| 40 - 49  | [[2021-09-18 - Saturday]] |                            | explain Object-Oriented Programming.                                                                                                                                                                |
-| 50 - 52  | [[2021-09-18 - Saturday]] |                            | serve as a brief introduction to web development with Flask.                                                                                                                                        |
+| 38 - 39  | [[2021-09-25 - Saturday]] |                            | cover lists and dictionaries.                                                                                                                                                                       |
+| 40 - 49  | [[2021-09-25 - Saturday]] |                            | explain Object-Oriented Programming.                                                                                                                                                                |
+| 50 - 52  | [[2021-09-25 - Saturday]] |                            | serve as a brief introduction to web development with Flask.                                                                                                                                        |
 
 - Reference [[Learn Python the Hard Way- a Detailed Book Review]]
 
