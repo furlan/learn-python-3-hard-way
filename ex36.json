@@ -1,0 +1,41 @@
+{
+  "title": "Can you fix the Nebula project?",
+  "start": "start",
+  "steps": {
+    "start": {
+      "title": "Welcome to the game: can you fix that project?",
+      "description": "Here is the project, do you think you can fix that project?",
+      "questions": [
+        { "title": "Yes, I can!", "answer": 1, "target": "lets_start"},
+        { "title": "Nope, thank!", "answer": 2, "target": "nope"}
+      ]
+    },
+    "end": {
+      "title": "Good bye!!!",
+      "end": true
+    },
+    "TEMPLATE": {
+      "title": "",
+      "description": "",
+      "questions": [
+        { "title": "", "answer": 1, "target": ""}
+      ]
+    },
+    "lets_start": {
+      "title": "Here is the project Nebula!",
+      "description": "The project is a mess and everything is late and urgent! People are working over hours and etc.",
+      "questions": [
+        { "title": "I want to meet the team.", "answer": 1, "target": "meeting_team"},
+        { "title": "I want to meet the manager(s).", "answer": 2, "target": "meeting_managers"}
+      ]
+    },
+    "meeting_team": {
+      "title": "Meeting the team",
+      "description": "During the team meeting you see that the team is almost burnt out. There is something in the air that is strange.",
+      "questions": [
+        { "title": "John looks particular annoied with my presence. I try to talk with him", "answer": 1, "target": "contacting_john"},
+        { "title": "Mary is always trying to say something. She keep saying that the team does not know what to do next.", "answer": 2, "target": "contacting_mary"}
+      ]
+    }
+  }
+}
